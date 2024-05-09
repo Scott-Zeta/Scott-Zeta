@@ -1,7 +1,9 @@
-### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scott-Zeta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- 👨‍💻 About me: I am a recognition driven person, I don't have specific 'passion' or 'interest' in particular area. What I only hope is utilise my skills and abilities to make things meaningful and helpful to at least some people in the world.
+- 📆 What I am working on: Personal project (ICS Generator)[https://github.com/Scott-Zeta/ICS_Generator].
+  - This is my recent ambitious project, intend to solve real world problems.
+  - Meanwhile as a chance for me to acquire and aquire technics I didn't use before(Already applied Django, Azure and there will be more).
+  - This time I tried to approach in professional way. I writedown the Business Case, Plan, Architechture design and my thinking. Also I logged everyday I worked on the project and what I read.
+- 📚 What I am studying: Mainly focus on (DotNet ecosystem)[https://github.com/Scott-Zeta/dotNetPlayground]
 <!--
 **Scott-Zeta/Scott-Zeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
